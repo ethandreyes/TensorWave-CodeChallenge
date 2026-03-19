@@ -1,3 +1,7 @@
+***GITHUB PUBLIC REPOSITORY LINK***
+
+https://github.com/ethandreyes/TensorWave-CodeChallenge
+
 ***ETHAN REYES - TENSORWAVE SOFTWARE ENGINEERING CODE CHALLENGE 3/16/26 - 3/19/26***
 
 Key Notes: This project completes the code-challenge built with Next.js that demonstrates dynamic routing, API integration, and handling of rate limiting and data fetching. The application is structured with scalability and performance in mind, separating client-side and server-side responsibilities. API rate limitations were addressed through caching and client-side fetching strategies. The UI/UX was iteratively refined to improve usability and clarity. I attempted deployment using Vercel, but due to API rate limits on the free tier, full functionality could not be demonstrated because of my overused API key. An `.env.local` file was used to securely store the API key and is not included in this repository.
